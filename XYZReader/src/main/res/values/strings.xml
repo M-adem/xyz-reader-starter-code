@@ -8,5 +8,10 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="todo">TODO</string>
+    <string name="error_internet">Check your internet connection and try again.</string>
+    <string name="retry">RETRY</string>
+    <string name="passing_today">passing today\'s date</string>
+
 
 </resources>
