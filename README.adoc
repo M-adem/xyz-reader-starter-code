@@ -23,7 +23,4 @@ Collapsing toolbar
 
 Constraint Layout
 
-![ss](https://e.top4top.net/p_1187lzgr31.png)
-
-
-![ss](https://f.top4top.net/p_1187ctc0k2.png) 
+Go wiki https://github.com/M-adem/xyz-reader-starter-code/wiki
